@@ -7,7 +7,7 @@
  */
 
 /**
- * Define the application's minimum supported PHP version as a constant so it can be referenced within the application.
+ * Definethe application's minimum supported PHP version as a constant so it can be referenced within the application.
  */
 define('JOOMLA_MINIMUM_PHP', '5.3.10');
 
